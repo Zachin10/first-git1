@@ -4,3 +4,5 @@ He scores 209 Goals Liverpool
 take input from user
 add the value
 Add Suger Price
+
+Sumbit data to the database
