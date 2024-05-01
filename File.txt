@@ -1,3 +1,5 @@
 Hello World Torres!! Liverpool Player 
 He has No.9 for the club Liverpool
 He scores 209 Goals Liverpool
+take input from user
+add the value
